@@ -55,6 +55,8 @@ related:
 
 # Short description of this project
 description: |-
+## DEPRECATED - this module has moved to GitHub BLISS [github.com/blackboard-innersource/cloudposse-terraform-aws-route53-cluster-hostname](https://github.com/blackboard-innersource/cloudposse-terraform-aws-route53-cluster-hostname)
+
   Terraform module to define a consistent AWS Route53 hostname
 
 include:

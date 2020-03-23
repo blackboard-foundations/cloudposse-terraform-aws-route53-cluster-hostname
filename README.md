@@ -7,6 +7,7 @@
 
  [![Codefresh Build Status](https://g.codefresh.io/api/badges/pipeline/cloudposse/terraform-modules%2Fterraform-aws-route53-cluster-hostname?type=cf-1)](https://g.codefresh.io/public/accounts/cloudposse/pipelines/5d1194139b194bde0eaf284b) [![Latest Release](https://img.shields.io/github/release/cloudposse/terraform-aws-route53-cluster-hostname.svg)](https://github.com/cloudposse/terraform-aws-route53-cluster-hostname/releases/latest) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
 
+## DEPRECATED - this module has moved to GitHub BLISS [github.com/blackboard-innersource/cloudposse-terraform-aws-route53-cluster-hostname](https://github.com/blackboard-innersource/cloudposse-terraform-aws-route53-cluster-hostname)
 
 Terraform module to define a consistent AWS Route53 hostname
 
